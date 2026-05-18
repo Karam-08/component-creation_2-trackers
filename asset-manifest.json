@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/component-creation_2-trackers/static/css/main.f5f3ba92.css",
+    "main.js": "/component-creation_2-trackers/static/js/main.76028adf.js",
+    "index.html": "/component-creation_2-trackers/index.html",
+    "main.f5f3ba92.css.map": "/component-creation_2-trackers/static/css/main.f5f3ba92.css.map",
+    "main.76028adf.js.map": "/component-creation_2-trackers/static/js/main.76028adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f3ba92.css",
+    "static/js/main.76028adf.js"
+  ]
+}
